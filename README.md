@@ -1,6 +1,7 @@
 # Presentations
+Repository of ilustat presentations
 
-This repository will contain presentations given by [ilustat](www.ilustat.com).
+This repository will contain presentations given by [ilustat](http://www.ilustat.com/).
 
 * February 2017 - Private: [R Today](201702_R_Today/201702_R_Today.pdf) A 45 minute presentation for Base R users who have not ventured through the Tidyverse.
 
