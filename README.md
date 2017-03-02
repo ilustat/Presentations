@@ -1,5 +1,5 @@
 # Presentations
-Repository of ilustat presentations
+## Repository of ilustat presentations
 
 This repository will contain presentations given by [ilustat](http://www.ilustat.com/).
 
