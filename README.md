@@ -1,7 +1,7 @@
 # Presentations
 ## Repository of ilustat's presentations
 
-* 25 October 2017 - [Data Science Unplugged](20171025_Data_Science_Trust-4up.pdf) - When to Trust and When Not to Trust Data Science.
+* 25 October 2017 - [Data Science Unplugged Meetup](https://www.meetup.com/Data-Science-Unplugged/) - [When to Trust and When Not to Trust Data Science.](20171025_Data_Science_Trust-4up.pdf)
 
 * 22 April 2017 - R Ladies Lisbon [Thinking as a "Data Scientist"](20170422_Thinking_as_a_Data_Scientist_unbranded.pdf) - From Questions to Decisions via Data Science. 
 
