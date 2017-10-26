@@ -1,6 +1,8 @@
 # Presentations
 ## Repository of ilustat's presentations
 
+* 25 October 2017 - [Data Science Unplugged](20171025_Data_Science_Trust-4up.pdf) - When to Trust and When Not to Trust Data Science.
+
 * 22 April 2017 - R Ladies Lisbon [Thinking as a "Data Scientist"](20170422_Thinking_as_a_Data_Scientist_unbranded.pdf) - From Questions to Decisions via Data Science. 
 
 * February 2017 - Private: [R Today](201702_R_Today/201702_R_Today.pdf) - A 45 minute presentation for Base R users who have not ventured through the Tidyverse.
